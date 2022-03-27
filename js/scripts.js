@@ -208,7 +208,7 @@ $(document).ready(function () {
 
 
     /********************** RSVP **********************/
-    $('#rsvp-form').on('submit', function (e) {
+    $('1z5_9kEB-oUUTxyKOew29L6UiERa4apwPAhJh4QnbnwE').on('submit', function (e) {
         e.preventDefault();
         var data = $(this).serialize();
 
