@@ -197,7 +197,7 @@ $(document).ready(function () {
             end: new Date('July 28, 2024 01:00'),
 
             // Event Address
-            address: 'STABLES WEDDING FARM, Stoneswood Road, Delph, Oldham, OL3 5DZ, UK',
+            address: 'Stables Wedding Farm, Stoneswood Road, Delph, Oldham, OL3 5DZ, UK',
 
             // Event Description
             description: "We can't wait to see you on our big day. For any queries or issues, please contact RoseanddanMinett@gmail.com"
