@@ -184,23 +184,23 @@ $(document).ready(function () {
         },
         data: {
             // Event title
-            title: "John and Ashley's Wedding",
+            title: "Rose and Dans's Wedding",
 
             // Event start date
-            start: new Date('Apr 30, 2023 12:00'),
+            start: new Date('July 27, 2024 12:00'),
 
             // Event duration (IN MINUTES)
             // duration: 120,
 
             // You can also choose to set an end time
             // If an end time is set, this will take precedence over duration
-            end: new Date('May 1, 2023 01:00'),
+            end: new Date('July 28, 2024 01:00'),
 
             // Event Address
-            address: 'The Vu, Ballencrieff Reservoir, Bathgate, West Lothian, EH48 4LD, UK',
+            address: 'STABLES WEDDING FARM, Stoneswood Road, Delph, Oldham, OL3 5DZ, UK',
 
             // Event Description
-            description: "We can't wait to see you on our big day. For any queries or issues, please contact Johnandashwed@gmail.com"
+            description: "We can't wait to see you on our big day. For any queries or issues, please contact RoseanddanMinett@gmail.com"
         }
     });
 
