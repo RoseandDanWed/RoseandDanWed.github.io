@@ -187,14 +187,14 @@ $(document).ready(function () {
             title: "Rose and Dans's Wedding",
 
             // Event start date
-            start: new Date('July 27, 2024 12:00'),
+            start: new Date('July 27, 2024 15:00'),
 
             // Event duration (IN MINUTES)
             // duration: 120,
 
             // You can also choose to set an end time
             // If an end time is set, this will take precedence over duration
-            end: new Date('July 28, 2024 01:00'),
+            end: new Date('July 27, 2024 23:00'),
 
             // Event Address
             address: 'Stables Wedding Farm, Stoneswood Road, Delph, Oldham, OL3 5DZ, UK',
